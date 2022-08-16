@@ -1,0 +1,34 @@
+_repo: The-poisoned-paradise-A-romance-of-Monte-Carlo_68549
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Service, Robert W. (Robert William)
+    alias: Service, Robert William
+    birthdate: 1874
+    deathdate: 1958
+    gutenberg_agent_id: '117'
+    url: http://www.gutenberg.org/2009/agents/117
+    wikipedia: https://en.wikipedia.org/wiki/Robert_W._Service
+description: ''
+gutenberg_issued: '2022-07-18'
+identifiers:
+  gutenberg: '68549'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t8z89sg4k&view=1up&seq=6&skin=2021
+pgterms:marc905: 20210928201848service
+pgterms:marc906: '1922'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by Cornell University Digital Collections)
+publication_note: United States :Dodd, Mead and Company,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Gambling -- Fiction'
+- !lcsh 'Monte-Carlo (Monaco) -- Fiction'
+- GITenberg
+title: 'The poisoned paradise: A romance of Monte Carlo'
+url: http://www.gutenberg.org/ebooks/68549
